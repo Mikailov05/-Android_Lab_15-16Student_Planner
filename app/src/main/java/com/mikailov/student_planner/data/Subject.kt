@@ -57,5 +57,24 @@ val sampleSubjects = listOf(
         credits = 79,
         currentGrade = "Хорошо",
         description = "Криптография, защита информации, безопасность сетей, анализ уязвимостей и методы защиты корпоративных систем."
+    ),
+
+    Subject(
+        id = "7",
+        name = "Иностранный язык",
+        professor = "Пенькова О.В.",
+        credits = 79,
+        currentGrade = "Хорошо",
+        description = "Иностранный язык в сфере IT."
+
+    ),
+
+    Subject(
+        id = "8",
+        name = "Математическое моделирование",
+        professor = "Трошина О.В.",
+        credits = 91,
+        currentGrade = "Отлично",
+        description = "Решение математический решений и задач."
     )
 )
